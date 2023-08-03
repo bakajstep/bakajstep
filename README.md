@@ -2,7 +2,7 @@
 
 My name is **Štěpán Bakaj**.
 
-I am a *student* and at the **Faculty of Information Technology at Brno University of Technology**.
+I am a *student* at the **Faculty of Information Technology at Brno University of Technology**.
 
 
 You may contact me using one of the following addresses:
